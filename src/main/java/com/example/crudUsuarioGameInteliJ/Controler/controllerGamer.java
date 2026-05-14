@@ -1,6 +1,6 @@
-package Controler;
+package com.example.crudUsuarioGameInteliJ.Controler;
 
-import Service.serviceGamer;
+import com.example.crudUsuarioGameInteliJ.Service.serviceGamer;
 import com.example.crudUsuarioGameInteliJ.Model.modelGamer;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

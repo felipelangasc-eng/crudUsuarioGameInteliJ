@@ -1,4 +1,4 @@
-package Service;
+package com.example.crudUsuarioGameInteliJ.Service;
 
 import com.example.crudUsuarioGameInteliJ.Model.modelGamer;
 import com.example.crudUsuarioGameInteliJ.Repository.repositoryGamer;
